@@ -4,4 +4,4 @@ Desenvolvimento de Site para a matéria de Gestão de Projetos pela Fatec Rubens
 
 imagens retiradas do site freepik.com
 
-<img src="/img/ACME.gif" width="200px">
+<img src="/img/ACME.gif" width="600px">
